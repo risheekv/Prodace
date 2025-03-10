@@ -1,4 +1,4 @@
-package com.manager.prodace;
+package com.productivity.prodace;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
